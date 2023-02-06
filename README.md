@@ -10,4 +10,5 @@ However, this technique necessitates the use of labour as well as a vehicle, whi
 In the "Pharma Bot" theme, we attempt to address this issue by building autonomous delivery robots that "pick up" medicine packets from pharmacies and distribute them across our "Smart city"
 arena.
 
-![image](https://user-images.githubusercontent.com/104312598/217013832-0a64452e-42c9-41be-976f-46ff0a4727a6.png)
+![image](https://user-images.githubusercontent.com/104312598/217016936-608371c0-a2d6-46cd-b69e-b1515a352219.png)
+
