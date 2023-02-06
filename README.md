@@ -1,8 +1,6 @@
 # Eyrc
 PB_2022-2023
 
-e-Yantra Competitions teach state-of-the-art practical skills using Project-Based Learning (ONLINE) through our unique MOOCs (Massive Online Open Courses). This year’s eYRC themes sensitise participants to problems of using technology in FUTURE CITIES. We have 6 themes, each of which teaches futuristic skills to eventually be used to solve real problems.
-
 Theme description
 
 Tackling challenges in mobility is of the utmost importance for a city to become “Smart”. Many industries began using home delivery through the years as a way to enhance their services. 
